@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KaloriTakipProgramı.UI", "Kalori_Takip _(Diyet)_Programı\KaloriTakipProgramı.UI.csproj", "{EB38C489-4766-4DD1-880D-D88F6713E510}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaloriTakipProgramı.Entity", "KaloriTakipProgramı.Entity\KaloriTakipProgramı.Entity.csproj", "{C68CCCA1-FAA3-4C58-B128-0C3290401D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaloriTakipProgramı.Data", "KaloriTakipProgramı.Data\KaloriTakipProgramı.Data.csproj", "{AE1DBE59-ED0C-42EA-B11B-A1C8DA67CD6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaloriTakipProgramı.Business", "KaloriTakipProgramı.Business\KaloriTakipProgramı.Business.csproj", "{487A5FDE-B7EA-4056-8712-9371F88DB3BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB38C489-4766-4DD1-880D-D88F6713E510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB38C489-4766-4DD1-880D-D88F6713E510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB38C489-4766-4DD1-880D-D88F6713E510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB38C489-4766-4DD1-880D-D88F6713E510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68CCCA1-FAA3-4C58-B128-0C3290401D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68CCCA1-FAA3-4C58-B128-0C3290401D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68CCCA1-FAA3-4C58-B128-0C3290401D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68CCCA1-FAA3-4C58-B128-0C3290401D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1DBE59-ED0C-42EA-B11B-A1C8DA67CD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1DBE59-ED0C-42EA-B11B-A1C8DA67CD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1DBE59-ED0C-42EA-B11B-A1C8DA67CD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1DBE59-ED0C-42EA-B11B-A1C8DA67CD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487A5FDE-B7EA-4056-8712-9371F88DB3BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487A5FDE-B7EA-4056-8712-9371F88DB3BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487A5FDE-B7EA-4056-8712-9371F88DB3BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487A5FDE-B7EA-4056-8712-9371F88DB3BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D89FA458-9EC0-41F2-9FC8-5A5328E45C06}
+	EndGlobalSection
+EndGlobal
